@@ -1,6 +1,7 @@
 package com.huseyin.ecommerce.kafka.order;
 
-import com.huseyin.ecommerce.order.PaymentMethod;
+
+import com.huseyin.ecommerce.kafka.payment.PaymentMethod;
 
 import java.math.BigDecimal;
 import java.util.List;
